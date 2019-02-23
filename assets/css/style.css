@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    background : #0e5b99;
+    max-width: 960px;
+  
+  /* POSITIONING */
+  background-size: cover;
+  background-position: center;
+  
+  /* Content Positioning */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+h1 {
+  color: yellow;
+}
+
+    
